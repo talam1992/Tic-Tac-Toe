@@ -1,6 +1,5 @@
 # Auto detect text files and perform LF normalization
 * text=auto
-Tic Tac Toe using C++
 
 # Custom for Visual Studio
 *.cs     diff=csharp
